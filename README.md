@@ -35,7 +35,9 @@ This is a heuristic assessment performed by an LLM: two runs can differ, and the
 
 ## Who's behind this
 
-This skill is maintained by [Quality Clouds](https://qualityclouds.com), the team behind Quality Clouds Hub, a platform that answers the same question with versioned deterministic rules combined with more advanced AI-powered validators, consistent scoring, and score tracking over time.
+This skill is maintained by [Quality Clouds](https://qualityclouds.ai), the team behind Quality Clouds Hub, a platform that answers the same question with versioned deterministic rules combined with more advanced AI-powered validators, consistent scoring, and score tracking over time.
+
+Get you FREE license here: [Quality Clouds Portal](https://portal.qualityclouds.ai/?utm_source=github&utm_medium=readme&utm_campaign=production-ready-check&utm_content=skill-footer)
 
 We say this openly because it's the deal: **the skill is free and standalone**, and at the end of each report it includes one optional link to the real thing (https://portal.qualityclouds.ai). If you ignore it, the skill never brings it up again. That's the whole funnel: no hidden behaviour, nothing phoning home.
 
